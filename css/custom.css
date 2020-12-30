@@ -1,0 +1,4 @@
+.littlefoot {
+    --popover-line-height: 1.5;
+    --popover-active-transform: scale(1) translateZ(0) translateY(0.5em)
+}
