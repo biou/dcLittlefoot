@@ -1,4 +1,6 @@
 .littlefoot {
     --popover-line-height: 1.5;
-    --popover-active-transform: scale(1) translateZ(0) translateY(0.5em)
+    --popover-active-transform: scale(1) translateZ(0) translateY(0.5em);
+    --button-active-background-color: #3f3f3f;
+    --button-text-color: #fff;
 }
